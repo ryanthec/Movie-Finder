@@ -1,0 +1,48 @@
+
+.bg-myColor{
+    background-image:linear-gradient(to right, #000000, #434343) !important;
+}
+
+.search-bar{
+    width:35vw;
+    border:none;
+}
+
+.search-bar button{
+    margin:0 10px 0 5px;
+    font-size:1.4rem;
+    padding:0 10px;
+}
+
+@media (min-width: 800px){
+
+    .search-bar{
+        width:50vw;
+    }
+}
+
+@media (max-width: 750px){
+
+    .search-bar{
+        width:40vw;
+    }
+}
+
+.navLinks{
+    color:rgb(185, 182, 182);
+    text-decoration:none;
+    font-size:1.2rem;
+    margin:0 1rem;
+}
+
+.navLinks:hover{
+    color:white;
+}
+
+
+
+
+
+
+
+
