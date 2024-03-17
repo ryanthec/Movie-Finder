@@ -5,7 +5,7 @@ There are 3 types of search, movie finder, TV show finder as well as popular mov
 Uses TMDB free API.  
 
 ## Live Demo
-Check out the live demo [here](https://ryanthec.github.io/Movie-Finder/).
+Check out the live demo [here](https://ryanthec.github.io/Movie-Finder/).(Sorry link is broken but the code will still work)
 
 ## How to use
 Movie finder allows users to enter a movie title/keyword and will return a few pages of movies.  
